@@ -83,8 +83,11 @@ This project analyzes **376 customer support tickets** to identify common issues
 ![cs3](https://github.com/user-attachments/assets/a3ef81ff-6472-4194-a9b4-f52854b4add6)
 
 
+### 📬 Contact
 
+Made with 💻 by **Julia Laskar**  
+📩 [LinkedIn](https://www.linkedin.com/in/yourprofile)
+Email: julialaskar.data@gmail.com
 
-**👩💻 Created by** [Julia Laskar]  
 
 
